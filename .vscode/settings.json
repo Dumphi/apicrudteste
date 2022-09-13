@@ -25,6 +25,19 @@
             "database": "heroku_2d0b2d5ae5ba468",
             "username": "b5d0ac1c375237",
             "password": "0c9fc5d8"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "us-cdbr-east-06.cleardb.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "apicrud",
+            "database": "heroku_9365349796cc0a9",
+            "username": "b7847e86a79ec4",
+            "password": "81a4a564"
         }
     ]
 }
