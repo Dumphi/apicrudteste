@@ -31,13 +31,13 @@
                 "authProtocol": "default"
             },
             "previewLimit": 50,
-            "server": "us-cdbr-east-06.cleardb.net",
+            "server": "c60df0aa@us-cdbr-east-06.cleardb.net",
             "port": 3306,
             "driver": "MySQL",
-            "name": "apicrud",
-            "database": "heroku_9365349796cc0a9",
-            "username": "b7847e86a79ec4",
-            "password": "81a4a564"
+            "name": "cleardb",
+            "database": "heroku_4504289e8674303",
+            "username": "b35e4cefe1f424",
+            "password": "c60df0aa"
         }
     ]
 }
