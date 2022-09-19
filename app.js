@@ -17,7 +17,6 @@ app.use('/',(req, res, next) =>{
     })
 })
 
-
 app.use((req,res,next) =>{
     const erro = new Error('nao encontrado')
     erro.status = 404

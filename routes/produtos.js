@@ -29,7 +29,6 @@ router.post('/', (req, res, next) => {
         mensagem: 'produto',
         id_produto: resultado.insertId
     })
-
 })
 router.get('/:id_produto', (req, res, net) => {
     mysql.getConnection((error, conn) => {

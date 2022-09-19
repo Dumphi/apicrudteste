@@ -51,6 +51,19 @@
             "username": "bf9edaa381acdb",
             "password": "21829e51",
             "database": "heroku_1c35cff35132432"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "us-cdbr-east-06.cleardb.net",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "apitestes",
+            "username": "b7bcb806ab2935",
+            "database": "heroku_9aa31844902a3c5",
+            "password": "d3c95e54"
         }
     ]
 }
